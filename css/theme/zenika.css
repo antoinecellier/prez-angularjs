@@ -198,7 +198,7 @@ body {
 	z-index: 30;
 	left: 10px;
 	bottom: 10px; }
-	
+
 body {
     background-position: center;
     background-size: auto 100%;
@@ -206,20 +206,19 @@ body {
 
 .title body {
     background-color: white;
-    background-image: url('../../img/zenika-bg.jpg'); }
 	
 .title .reveal h2 {
 	background-color: rgba(255, 255, 255, 0.8);
 	background-image: none;
 	padding: 30px;	}
-	
+
 .reveal h2 {
 	background-position: center;
   background-size: auto 100%;
   background-repeat: no-repeat;
   background-color: white;
   background-image: url('../../img/zenika-titre-bg.jpg');
-	
+
 	padding: 0 50px 30px 50px; }
 
 .reveal img.left {
@@ -247,4 +246,3 @@ body {
     box-shadow: none;
   }
 }
-
